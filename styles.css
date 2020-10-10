@@ -1,0 +1,17 @@
+h2{
+    text-transform: uppercase;
+}
+
+.container {
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+img{
+    width: 250px;
+    height: 250px;
+    margin: 10px 0;
+}
